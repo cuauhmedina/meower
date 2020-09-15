@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+}
+
+.mew-form,
+.loading {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.mews {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mews div {
+    background-color: darkgrey;
+    padding: 1em;
+    margin: 1em 0;
+    border-radius: 15px;
+    box-shadow: lightgray 5px 5px 5px;
+}
